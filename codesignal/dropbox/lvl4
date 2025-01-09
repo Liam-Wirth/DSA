@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 -m unittest test_simulation.TestSimulateCodingFramework.test_group_4
